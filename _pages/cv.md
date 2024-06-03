@@ -18,29 +18,23 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 Jan - to date: Temporary Instructor
+  * Department of Electrical and Electronic Engineering, Faculty of Engineering, University of Peradeniya, Sri Lanka.
+  * Duties:
+    * Conducting laboratory sessions for undergraduates
+    * Evaluation of undergraduate academic coursework
+    * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 Jan - 2021 May: Electronic Engineering Intern
+  * Synopsys Inc. (Colombo, Sri Lanka)
+  * Research & Development and Applications Engineering
+  * Duties:
+    * Development of a framework for random testing of software
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++
+* etc.
 
 Publications
 ======
@@ -60,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
