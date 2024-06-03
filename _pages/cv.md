@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- put the PDF of CV here -->
+
+<!-- Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
 * BScEng (Hons.) in Electrical and Electronics Engineering, University of Peradeniya, 2023
   GPA: 3.80/4.00 (First Class Honours)
 
@@ -52,7 +52,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
