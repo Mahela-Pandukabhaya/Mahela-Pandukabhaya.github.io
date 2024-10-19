@@ -18,5 +18,7 @@ location: "Peradeniya, Sri Lanka"
     - EE1010 Electricity (Core, Y1)
     - EE256 Electrical Power and Energy (Core, Y2)
     - EE257 Signals and Systems (Core, Y2)
+    - EE357 Communication Systems (Core, Y2)
+    - EE354 Power Engineering (Core, Y3)
     - EE539 Nonlinear and Multivariable Systems (Technical Elective, Y4)
     - EE593 Advanced Signal Processing (Technical Elective, Y4)
