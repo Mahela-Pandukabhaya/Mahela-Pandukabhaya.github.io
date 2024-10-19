@@ -1,5 +1,5 @@
 ---
-title: "DEEE, University of Peradeniya"
+title: "University of Peradeniya"
 collection: teaching
 type: "Temporary Instructor"
 permalink: /teaching/2024-deee-instr-teaching
@@ -8,7 +8,9 @@ date: 2024-01-01
 location: "Peradeniya, Sri Lanka"
 ---
 
-- **Jan 2024 - present: Laboratory Instructor for Undergraduate courses**
+Instructor for Undergraduate courses.
+
+- **Jan 2024 - present: Instructor for Undergraduate courses**
   - Designed laboratory sessions for courses:
     - EE1010 Electricity (Core, Y1)
     - EE325 Digital Signal Processing (Core, Y3)
