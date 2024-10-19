@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mahela Pandukabhaya"
-  pronouns         : "he/him/his"
+  pronouns         : #"he/him/his"
   bio              : "Temporary Instructor, DEEE, University of Peradeniya"
   location         : "Kandy, Sri Lanka"
   employer         : "DEEE, University of Peradeniya"
