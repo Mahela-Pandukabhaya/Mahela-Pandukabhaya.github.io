@@ -11,7 +11,7 @@ location: "Peradeniya, Sri Lanka"
 Instructor for Undergraduate courses.
 
 - **Jan 2024 - present: Instructor for Undergraduate courses**
-  - Designed laboratory sessions for courses:
+  - Designed laboratory sessions for the following modules:
     - EE1010 Electricity (Core, Y1)
     - EE325 Digital Signal Processing (Core, Y3)
   
@@ -20,7 +20,8 @@ Instructor for Undergraduate courses.
     - EE1010 Electricity (Core, Y1)
     - EE256 Electrical Power and Energy (Core, Y2)
     - EE257 Signals and Systems (Core, Y2)
-    - EE357 Communication Systems (Core, Y2)
+    - EE322 Embedded Systems Design (Core, Y3)
+    - EE357 Communication Systems (Core, Y3)
     - EE354 Power Engineering (Core, Y3)
     - EE539 Nonlinear and Multivariable Systems (Technical Elective, Y4)
     - EE593 Advanced Signal Processing (Technical Elective, Y4)
