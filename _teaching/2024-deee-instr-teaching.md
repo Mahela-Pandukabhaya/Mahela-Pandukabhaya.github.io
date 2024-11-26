@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Peradeniya, Sri Lanka"
 ---
 
-Instructor for Undergraduate courses.
+Instructor (Teaching Assistant) for Undergraduate courses.
 
 - **Jan 2024 - present: Instructor for Undergraduate courses**
   - Designed laboratory sessions for the following modules:
