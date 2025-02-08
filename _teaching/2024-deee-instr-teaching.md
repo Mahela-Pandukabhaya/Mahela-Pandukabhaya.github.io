@@ -12,16 +12,17 @@ Instructor (Teaching Assistant) for Undergraduate courses.
 
 - **Jan 2024 - present: Instructor for Undergraduate courses**
   - Designed laboratory sessions for the following modules:
-    - EE1010 Electricity (Core, Y1)
-    - EE325 Digital Signal Processing (Core, Y3)
+    - EE1010 Electricity (Y1)
+    - EE325 Digital Signal Processing (Y3)
   
   - Conducted laboratory sessions for EEE modules including:
-    - GP118 Basic Electrical and Electronic Engineering (Core, Y1)
-    - EE1010 Electricity (Core, Y1)
-    - EE256 Electrical Power and Energy (Core, Y2)
-    - EE257 Signals and Systems (Core, Y2)
-    - EE322 Embedded Systems Design (Core, Y3)
-    - EE357 Communication Systems (Core, Y3)
-    - EE354 Power Engineering (Core, Y3)
-    - EE539 Nonlinear and Multivariable Systems (Technical Elective, Y4)
-    - EE593 Advanced Signal Processing (Technical Elective, Y4)
+    - GP118 Basic Electrical and Electronic Engineering (Y1)
+    - EE1010 Electricity (Y1)
+    - EE256 Electrical Power and Energy (Y2)
+    - EE257 Signals and Systems (Y2)
+    - EE322 Embedded Systems Design (Y3)
+    - EE357 Communication Systems (Y3)
+    - EE354 Power Engineering (Y3)
+    - EE580 Introduction to Biomedical Engineering (Elective, Y4)
+    - EE539 Nonlinear and Multivariable Systems (Elective, Y4)
+    - EE593 Advanced Signal Processing (Elective, Y4)
