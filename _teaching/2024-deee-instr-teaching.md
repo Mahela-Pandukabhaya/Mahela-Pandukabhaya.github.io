@@ -10,7 +10,7 @@ location: "Peradeniya, Sri Lanka"
 
 Instructor (Teaching Assistant) for Undergraduate courses.
 
-- **Jan 2024 - present: Instructor for Undergraduate courses**
+- **Jan 2024 - Feb 2025: Instructor for Undergraduate courses**
   - Designed laboratory sessions for the following modules:
     - EE1010 Electricity (Y1)
     - EE325 Digital Signal Processing (Y3)

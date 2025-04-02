@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Temporary Instructor,  
+Temporary Lecturer,  
 Department of Electrical and Electronic Engineering,  
 Faculty of Engineering,  
 University of Peradeniya.  
@@ -17,7 +17,7 @@ Email: vkmpandukabhaya@gmail.com
 
 About Me
 ------
-I am currently a Temporary Instructor at Department of Electrical and Electronic Engineering (DEEE), Faculty of Engineering, University of Peradeniya. In addition, I am a volunteer researcher at DEEE focusing on the primary areas of signal processing, AI, and ML, and secondary areas of instrumentation (sensors), biomedical engineering, and electronics.
+I am currently a Temporary Lecturer at Department of Electrical and Electronic Engineering (DEEE), Faculty of Engineering, University of Peradeniya. In addition, I am a volunteer researcher at DEEE focusing on the primary areas of signal processing, AI, and ML, and secondary areas of instrumentation (sensors), biomedical engineering, and electronics.
 
 Research Interests
 ------
