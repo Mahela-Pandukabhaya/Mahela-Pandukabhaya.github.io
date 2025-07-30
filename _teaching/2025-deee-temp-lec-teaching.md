@@ -11,6 +11,6 @@ location: "Peradeniya, Sri Lanka"
 Temporary Lecturer, DEEE, University of Peradeniya for Undergraduate courses.
 
 - **Mar 2025 - present: Temporary Lecturer**
-  - Conducting the following EEE module:
+  - Courses conducted:
     - EE514 Data Communications (Y4)
     
