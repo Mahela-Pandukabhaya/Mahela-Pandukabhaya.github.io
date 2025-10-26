@@ -17,11 +17,21 @@ Email: vkmpandukabhaya@gmail.com
 
 About Me
 ------
-I am currently a Temporary Lecturer at Department of Electrical and Electronic Engineering (DEEE), Faculty of Engineering, University of Peradeniya. In addition, I am a volunteer researcher at DEEE focusing on the primary areas of signal processing, AI, and ML, and secondary areas of instrumentation (sensors), biomedical engineering, and electronics.
+I am a Temporary Lecturer at [Department of Electrical and Electronic Engineering (DEEE)](https://web2.ee.pdn.ac.lk/), Faculty of Engineering, University of Peradeniya. In addition, I am a volunteer researcher at [Multidisciplinary AI Research Centre (MARC)](https://marcuop.netlify.app/) focusing on the following:
+- **Primary areas**
+  - Signal Processing
+  - Control Theory
+  - Artificial Intelligence & Machine Learning
+- **Secondary areas**
+  - Robotics
+  - Sensors and Instrumentation
+  - Biomedical Engineering
+  - Power and Energy Systems
 
 Research Interests
 ------
-Signal Processing, Sensors, Electronics, Artificial Intelligence, Acoustics, Biomedical Engineering, Instrumentation
+I'm interested in pursuing research in the following areas:
+**Robotics**, **Control Theory**, **Artificial Intelligence**, **Signal Processing**, Biomedical Engineering, Sensors, Instrumentation, Acoustics.
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
