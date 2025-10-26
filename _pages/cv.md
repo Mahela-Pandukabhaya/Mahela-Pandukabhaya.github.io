@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ site.baseurl }}/files/Mahela_Pandukabhaya_CV.pdf">Curriculum Vitae</a>
+<a href="{{ site.baseurl }}/files/Mahela_Pandukabhaya_CV.pdf">CV: Download Here</a>
 <!-- <embed src="" width="600" height="700" type='application/pdf'> -->
 
 <!-- put the PDF of CV here -->
