@@ -12,4 +12,6 @@ doi: "10.1109/EECon64470.2024.10841878"
 
 Non-Intrusive Load Monitoring (NILM) is a vital technique for disaggregating individual appliance loads from aggregated household energy consumption data. In this study, we utilize the PLAID dataset to conduct a comprehensive review of various classification methods employed in NILM systems. We focus on traditional machine learning approaches such as support vector machines (SVM), k-nearest neighbors (KNN), and random forests (RF), as well as modern deep learning models like multi-layer perceptrons (MLP) and convolutional neural networks (CNN). Our analysis examines the effect of different sampling frequencies on the performance of these models, highlighting the strengths and limitations of each under varying conditions. The insights provided in this paper offer valuable guidance for researchers and practitioners in selecting the most effective classification techniques for their specific NILM applications.
 
+**Keywords**: non-intrusive load monitoring, classification, appliance signature, machine learning, deep learning, sampling frequency.
+
 Available at [https://doi.org/10.1109/EECon64470.2024.10841878](https://doi.org/10.1109/EECon64470.2024.10841878).
