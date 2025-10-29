@@ -1,6 +1,7 @@
 ---
+type: 'conference'
 title: "Comparison of Appliance Signature Classification Methods for Non-Intrusive Load Monitoring"
-collection: Conference Papers
+collection: 'conference'
 permalink: /publication/2024-12-12-eecon-nilm-classification
 excerpt: 'This study reviews and compares machine learning and deep learning models, specifically using the PLAID dataset, for classifying appliance loads in Non-Intrusive Load Monitoring (NILM), analyzing how sampling frequency affects model performance to guide the selection of effective NILM techniques.'
 # excerpt: 'Non-Intrusive Load Monitoring (NILM) is a vital technique for disaggregating individual appliance loads from aggregated household energy consumption data. In this study, we utilize the PLAID dataset to conduct a comprehensive review of various classification methods employed in NILM systems. We focus on traditional machine learning approaches such as support vector machines (SVM), k-nearest neighbors (KNN), and random forests (RF), as well as modern deep learning models like multi-layer perceptrons (MLP) and convolutional neural networks (CNN). Our analysis examines the effect of different sampling frequencies on the performance of these models, highlighting the strengths and limitations of each under varying conditions. The insights provided in this paper offer valuable guidance for researchers and practitioners in selecting the most effective classification techniques for their specific NILM applications.'

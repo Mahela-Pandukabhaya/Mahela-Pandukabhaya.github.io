@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Peer-Reviewed Journals
+
+{% assign journal_papers = site.publications | where: 'type', 'journal' %}
+
+{% for post in journal_papers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## International Conferences
+
+{% assign conference_papers = site.publications | where: 'type', 'conference' %}
+
+{% for post in conference_papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
